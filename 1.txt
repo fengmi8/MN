@@ -16,6 +16,14 @@
             "name": "🚀巧记线路"
         },
         {
+            "url": "http://w.g9.pub:66/381203888/666.json",
+            "name": "🚀熊猫线路"
+        },
+        {
+            "url": ""http://xn--sss604efuw.ga/x/o.json",
+            "name": "🚀饭太硬线路"
+        },
+        {
             "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
             "name": "🚀公益线路"
         },
